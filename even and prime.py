@@ -1,0 +1,2 @@
+a="jaga"
+print(a)

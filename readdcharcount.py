@@ -1,0 +1,5 @@
+fname = input("enter the file name:")
+b = open(fname,"r")
+print("cursor position:",b.tell())
+n=b.read()
+print(n)
